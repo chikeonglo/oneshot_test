@@ -1,0 +1,7 @@
+*.vscode
+*env
+*omniglot
+*images_background
+*images_evaluation
+*data
+*weights
